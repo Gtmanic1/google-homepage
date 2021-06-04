@@ -1,0 +1,21 @@
+body {
+    font-family: arial;
+}
+
+li {
+    float: left;
+}
+
+a {
+    display: block; 
+    padding: 8px;
+    color: rgb(0, 0, 0); 
+    text-decoration: none;
+}
+ul {
+    list-style-type: none;
+}
+
+#icon-div {
+    margin-left: 200px;
+}
